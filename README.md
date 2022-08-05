@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi!
+My name is Yazmin, I am an industrial and systems engineer that solves problems through data analysis and visualization, machine learning and advanced statistics. 
 
 <!--
 **yazminmo/yazminmo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
