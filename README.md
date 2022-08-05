@@ -1,5 +1,8 @@
 ### Hi!
-My name is Yazmin, I am an industrial and systems engineer that solves problems through data analysis and visualization, machine learning and advanced statistics. 
+My name is Yazmin, I am an industrial and systems engineer that solves problems through data analysis and visualization, machine learning and advanced statistics.
+
+I have six years of experience in the manufacturing industry and I have been working with advanced statistics since 2017.
+I started my ML joirnet in 2019. 
 
 <!--
 **yazminmo/yazminmo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
